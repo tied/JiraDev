@@ -1,0 +1,1 @@
+<span>#parse ("templates/plugins/fields/view/view-radio.vm")</span><span>#parse ("templates/plugins/fields/view/view-userpicker.vm")</span>
